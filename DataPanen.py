@@ -1,5 +1,6 @@
 #Muhamad Rezky Pratama (152023063)
 
+
 data_panen = {
     "lokasi1": {
         "nama_lokasi": "Kebun A",
