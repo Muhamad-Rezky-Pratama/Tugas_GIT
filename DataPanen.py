@@ -65,4 +65,3 @@ for i, j in data_panen.items():
 
         
 
-
