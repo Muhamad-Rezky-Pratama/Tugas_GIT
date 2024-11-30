@@ -64,3 +64,4 @@ for i, j in data_panen.items():
         print(f"\nLokasi {j['nama_lokasi']}: lokasi ini dalam kondisi baik")
 
         
+
